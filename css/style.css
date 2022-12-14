@@ -33,7 +33,7 @@ header {
     margin: 10px 0 25px 0;
 }
 
-.header-section {
+.header-link-div {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -59,7 +59,7 @@ h4 {
     font-weight: 500;
 }
 
-.login-section {
+.log-in-div {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
