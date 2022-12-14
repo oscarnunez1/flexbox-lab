@@ -89,12 +89,10 @@ main {
     display: flex;
 }
 
-.search-div {
+section {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
-    padding: 20px;
 }
 
 .search-sub-div {
@@ -102,4 +100,13 @@ main {
     flex-direction: row;
     justify-content: space-between;
     border: 1px solid black;
-    
+}
+
+.card-div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: ;
+
+}
