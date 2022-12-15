@@ -75,7 +75,6 @@ section {
     box-shadow: 2px solid black;
     padding: 20px 5px;
     background-color: #3B4CCA;
-    
 }
 
 .sidenavbar {
@@ -106,7 +105,7 @@ main {
     flex-direction: column;
     width: 1000px;
     margin: 10px;
-    
+    background-image: url(https://www.freepnglogos.com/uploads/pokemon-logo-png-0.png);
 }
 
 .card {
